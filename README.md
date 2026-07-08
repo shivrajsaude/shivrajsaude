@@ -23,6 +23,16 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 
 # 🏆 Certifications
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft-DP--700%20Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</p>
+
+# 🏆 Certifications
+
 ### Microsoft
 
 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
