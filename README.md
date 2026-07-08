@@ -9,6 +9,10 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivrajsaude&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+---
 
 # 👨‍💻 About Me
 
