@@ -5,7 +5,7 @@ Data Engineer | Azure | Microsoft Fabric | Databricks
 </h3>
 
 <p align="center">
-Passionate about designing scalable cloud data platforms and building end-to-end Data Engineering solutions using Azure, Microsoft Fabric, Databricks, PySpark, SQL, and Power BI.
+Passionate about designing scalable cloud data platforms and building end-to-end Data Engineering solutions using Azure, Microsoft Fabric, Databricks, Azure Data Factory, PySpark, SQL, and Power BI.
 </p>
 
 ---
