@@ -1,4 +1,3 @@
----
 <h1 align="center">
 Hi 👋, I'm Shivraj Saude
 </h1>
@@ -37,7 +36,6 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </p>
----
 
 # 💼 Technical Skills
 
