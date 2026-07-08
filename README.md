@@ -1,3 +1,4 @@
+---
 <h1 align="center">
 Hi 👋, I'm Shivraj Saude
 </h1>
@@ -14,6 +15,8 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 <img src="https://komarev.com/ghpvc/?username=shivrajsaude&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+---
+
 # 👨‍💻 About Me
 
 - 💼 Data Engineer passionate about building enterprise-scale data platforms
@@ -25,7 +28,7 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 
 ---
 
-# 🏆 Certifications
+# 🏆 🏅 Professional Certifications
 
 <p align="left">
 
@@ -34,17 +37,6 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </p>
-
-# 🏆 Certifications
-
-### Microsoft
-
-🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
-
-### Databricks
-
-🏅 Databricks Certified Data Engineer Associate
-
 ---
 
 # 💼 Technical Skills
