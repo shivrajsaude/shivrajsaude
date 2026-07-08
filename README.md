@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shivraj Saude</h1>
-
-<h3 align="center">
-Data Engineer | Azure | Microsoft Fabric | Databricks
-</h3>
-
-<p align="center">
-Passionate about designing scalable cloud data platforms and building end-to-end Data Engineering solutions using Azure, Microsoft Fabric, Databricks, Azure Data Factory, PySpark, SQL, and Power BI.
-</p>
-
-----
-
 <h1 align="center">
 Hi 👋, I'm Shivraj Saude
 </h1>
@@ -25,12 +13,6 @@ Passionate about designing scalable cloud data platforms and building end-to-end
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shivrajsaude&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivrajsaude&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
----
 
 # 👨‍💻 About Me
 
