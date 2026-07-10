@@ -130,7 +130,6 @@ To contribute as a Data Engineer by designing scalable, reliable and high-perfor
 - 📍 Bangalore, India
 - 📧 Email: shivraj.saude1@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/shivrajsaude](https://www.linkedin.com/in/shivrajsaude/)
-- 📄 Resume: *(We'll add after your final resume is ready)*
 
 ---
 
